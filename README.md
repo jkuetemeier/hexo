@@ -1,3 +1,9 @@
+## Archived
+
+This project is archived.
+
+Meanwhile I would recommend you to use Hugo. Have a look at https://wolfszwinkern.com to get the latest tips about Hugo.
+
 # Hexo
 
 [![Build Status](https://travis-ci.org/hexojs/hexo.svg?branch=master)](https://travis-ci.org/hexojs/hexo)  [![NPM version](https://badge.fury.io/js/hexo.svg)](http://badge.fury.io/js/hexo)
